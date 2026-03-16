@@ -1,4 +1,4 @@
-![alt text](https://github.com/[emiryuksel02]/[Outlook-Bulk-Mail-Merge-Privacy]/blob/[branch]/bannerOutlook.png)
+![alt text](bannerOutlook.png "Logo Title Text 1")
 # Outlook-Bulk-Mail-Merge-Privacy
 Send personalized bulk emails from Excel/CSV using your Outlook account – right from your browser.
 
